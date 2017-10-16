@@ -15,4 +15,5 @@ Cosa contiene
 
 Esempio di ping con WMI: 
 
-	pingstatus.py
+	netadptconf.py         # accesso alla classe Win32_NetworkAdapterConfiguration
+	pingstatus.py          # utilizzo della classw Win32_PingStatus
