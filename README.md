@@ -1,5 +1,4 @@
 # CAN (Controller Area Network): ISO 11898-1
----
 
 Il protocollo CAN (Controller Area Network) è stato sviluppato in Europa per l'uso nelle automobili.
 A seguito del suo proficuo impiego in applicazioni nel campo degli autoveicoli e dell'industria, 
