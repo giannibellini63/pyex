@@ -13,7 +13,13 @@ Come si usa?
 Cosa contiene
 ---
 
+##### net programs
+
 Esempio di ping con WMI: 
 
 	netadptconf.py         # accesso alla classe Win32_NetworkAdapterConfiguration
 	pingstatus.py          # utilizzo della classw Win32_PingStatus
+
+#####  syslog programs
+
+    test_syslog.py
