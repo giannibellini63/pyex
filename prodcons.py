@@ -1,3 +1,6 @@
+"""
+http://antoniotancredi.altervista.org/2010/01/12/sincronizzazione-problema-del-produttoreconsumatore-in-python-con-oggetti-condition/
+"""
 from threading import Thread, Condition
 import time
 
